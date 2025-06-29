@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Fruit Get Plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            max-width: 800px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Effective Date: June 28, 2025</p>
+
+    <p>Thank you for choosing <strong>Fruit Get Plan</strong>. Your privacy is very important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our application.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We may collect the following information to improve our services:</p>
+    <ul>
+        <li>Personal Information: Such as your name, email address, and any other details you voluntarily provide.</li>
+        <li>Device Information: Including device model, operating system, app version, unique device identifiers, and language preferences.</li>
+        <li>Usage Data: Information about how you interact with the app, including pages visited, features used, and time spent within the app.</li>
+        <li>Location Information: If granted permission, we may access approximate device location to enhance certain features (optional).</li>
+    </ul>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>We use your information to:</p>
+    <ul>
+        <li>Operate, maintain, and improve the functionality of Fruit Get Plan.</li>
+        <li>Personalize your experience based on your preferences.</li>
+        <li>Provide customer support and respond to inquiries.</li>
+        <li>Analyze trends and monitor app performance to enhance stability and user experience.</li>
+        <li>Send important notices, such as updates, technical alerts, or policy changes.</li>
+    </ul>
+
+    <h2>3. Third-Party Services</h2>
+    <p>Fruit Get Plan may use trusted third-party services for analytics, crash reporting, or advertising. These services may collect certain information in accordance with their own privacy policies. We ensure partners meet strict data protection standards.</p>
+
+    <h2>4. Advertising</h2>
+    <p>We may display ads within the app. Some ads may be personalized based on limited, non-identifiable information to improve relevance. You can opt out of personalized advertising through your device settings where supported.</p>
+
+    <h2>5. Data Sharing</h2>
+    <p>We do not sell, rent, or trade your personal information to third parties. However, we may share information in the following circumstances:</p>
+    <ul>
+        <li>To comply with legal obligations or valid government requests.</li>
+        <li>To protect the rights, property, or safety of our users or others.</li>
+        <li>With your explicit consent.</li>
+    </ul>
+
+    <h2>6. Data Security</h2>
+    <p>We take reasonable administrative, technical, and physical measures to protect your information from unauthorized access, misuse, or disclosure. However, no data transmission over the internet or storage method is 100% secure.</p>
+
+    <h2>7. Children's Privacy</h2>
+    <p>Fruit Get Plan is not designed for use by children under the age of 13. We do not knowingly collect personal information from children. If we become aware of such data, we will delete it promptly.</p>
+
+    <h2>8. Your Privacy Rights</h2>
+    <p>Depending on your location, you may have rights to access, correct, or delete your personal data. To exercise these rights, please contact us using the information below.</p>
+
+    <h2>9. Permissions Requested</h2>
+    <p>Fruit Get Plan may request permissions such as:</p>
+    <ul>
+        <li>Access to storage – for saving your data locally.</li>
+        <li>Access to location – for optional features based on your region.</li>
+    </ul>
+    <p>All permissions are optional, and the app will only function with those necessary for core features.</p>
+
+    <h2>10. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy periodically. We encourage you to review this page regularly. Material changes will be communicated within the app or on this page with an updated effective date.</p>
+
+    <h2>11. Contact Us</h2>
+    <p>If you have questions or concerns about this Privacy Policy or our practices, please contact us at:</p>
+    <p>Email: <a href="mailto:AllenSweet0552@gmail.com">AllenSweet0552@gmail.com</a></p>
+
+    <p>By using Fruit Get Plan, you acknowledge that you have read and understood this Privacy Policy, and you agree to its terms.</p>
+</body>
+</html>
